@@ -17,6 +17,7 @@ date: 2025-03-07
 
 <details>
 Are you worthy enough to get the treasure? Let's see...
+<br>
 nc treasure-hunt.ctf.pearlctf.in 30008
 </details>
 
@@ -269,7 +270,7 @@ io.interactive()
 
 <details>
 I made a very secure file reading service.
-
+<br>
 nc readme-please.ctf.pearlctf.in 30039
 </details>
 
