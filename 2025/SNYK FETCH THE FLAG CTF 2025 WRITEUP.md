@@ -5,6 +5,10 @@ tags: ["ctf", "snyk"]
 date: 2025-02-28
 ---
 
+# SNYK FETCH THE FLAG CTF 2025 WRITEUP
+
+[TOC]
+
 # Warmup
 
 ## Zero Ex Six One - Rev
