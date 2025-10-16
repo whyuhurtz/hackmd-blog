@@ -17,13 +17,13 @@ date: 2025-03-07
 
 <details>
 Are you worthy enough to get the treasure? Let's see...
-<br>
+<br><br>
 nc treasure-hunt.ctf.pearlctf.in 30008
 </details>
 
 ### Solve Walkthrough
 
--   This is a classic ret2win challenge.
+- This is a classic ret2win challenge.
 - First, I check the ELF protection with `checksec`.
 
 ```bash
@@ -262,7 +262,7 @@ io.interactive()
 
 ### Flag
 
-<kbd>pearl{k33p_0n_r3turning_l0l}</kbd>
+==pearl{k33p_0n_r3turning_l0l}==
 
 ## Readme Please
 
@@ -270,7 +270,7 @@ io.interactive()
 
 <details>
 I made a very secure file reading service.
-<br>
+<br><br>
 nc readme-please.ctf.pearlctf.in 30039
 </details>
 
@@ -458,4 +458,4 @@ io.close()
 
 ### Flag
 
-<kbd>pearl{f1l3_d3script0rs_4r3_c00l}</kbd>
+==pearl{f1l3_d3script0rs_4r3_c00l}==
