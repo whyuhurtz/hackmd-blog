@@ -2,8 +2,13 @@
 author: ywdh
 title: ITECHNOCUP CTF 2025 FINAL WRITEUP
 tags: ["ctf", "offline"]
-date: 
+date: 2025-10-03
 ---
+
+# ITECHNOCUP CTF 2025 FINAL WRITEUP
+
+[TOC]
+
 # Pwn
 
 ## PWN Baik
@@ -276,7 +281,7 @@ https://c-impromptu.itechnocup.id/
 
 ==ITECHNO2025{W3bs1te_1ni_D1bu4t_D4daKan}==
 
-## Path Doang Mah Kureng
+## Path Doang Mah Kureng (Solved After Ended)
 
 ### TL;DR
 
@@ -289,10 +294,10 @@ Nge Dir path bang?, Ga cukup brok
 <br>
 https://c-path.itechnocup.id/
 <br><br>
-View Hint: Hint 1
+Hint 1
 Intinya gitu dah hehe...
 <br>
-View Hint: Hint 2
+Hint 2
 Coba kalian jadi hacker dan tebak path untuk masuk ke dalam sistem, tapi dengan bypass
 </details>
 
@@ -326,7 +331,7 @@ Coba kalian jadi hacker dan tebak path untuk masuk ke dalam sistem, tapi dengan 
 }
 ```
 
-> [!hint]+ File `app.js` itu udah ada by default dan bisa diakses dari publik.
+> [!Tip] File `app.js` itu udah ada by default dan bisa diakses dari publik.
 
 - Jika udah bisa, langsung aja kita akses internal endpoint yang menyimpan flag, yaitu `/internal/flag`.
 
