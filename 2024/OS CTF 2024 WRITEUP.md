@@ -2,7 +2,7 @@
 title: OS CTF 2024 WRITEUP
 author: ywdh
 tags: ["ctf"]
-date: 2025-07-13
+date: 2024-07-13
 ---
 
 # OS CTF 2024 WRITEUP
