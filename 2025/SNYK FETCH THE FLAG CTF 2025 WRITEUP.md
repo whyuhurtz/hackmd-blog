@@ -67,7 +67,7 @@ for key in range(0x20, 0x7F):
 
 ### Flag
 
-<kbd>flag{c50d82c0a25f3e644d0702b41dbd085a}</kbd>
+==flag{c50d82c0a25f3e644d0702b41dbd085a}==
 
 ## Science 100
 
@@ -89,7 +89,7 @@ Patrolling the Mojave almost makes you wish for a nuclear winter.
 
 ### Flag
 
-<kbd>flag{89e575e7272b07a1d33e41e3647b3826}</kbd>
+==flag{89e575e7272b07a1d33e41e3647b3826}==
 
 ## Echo
 
@@ -198,7 +198,7 @@ io.interactive()
 
 ### Flag
 
-<kbd>flag{4f4293237e37d06d733772a087299f17}</kbd>
+==flag{4f4293237e37d06d733772a087299f17}==
 
 ## Additional Information Needed
 
@@ -341,7 +341,7 @@ io.interactive()
 
 ### Flag
 
-<kbd>flag{8e9e2e4ec228db4207791e0a534716c3}</kbd>
+==flag{8e9e2e4ec228db4207791e0a534716c3}==
 
 ## Timeoff
 
@@ -403,4 +403,4 @@ snyk code test
 
 ### Flag
 
-<kbd>flag{52948d88ee74b9bdab130c35c88bd406}</kbd>
+==flag{52948d88ee74b9bdab130c35c88bd406}==
