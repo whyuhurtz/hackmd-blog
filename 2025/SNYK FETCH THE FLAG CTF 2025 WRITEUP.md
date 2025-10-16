@@ -357,6 +357,7 @@ The challenge source code is available in the challenge.zip folder. The password
 Credentials:
 <br>
 - admin@example.com:admin123
+<br>
 - user@example.com:user123
 </details>
 
