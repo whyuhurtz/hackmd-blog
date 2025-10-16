@@ -145,7 +145,7 @@ You can notice in the opening of the website.
 
 ### Flag
 
-<kbd>HTB{Fl4m3_P34ks_Tr14l_Burn5_Br1ght_cce96f85ad54b396cdee745fbe91bf5b}</kbd>
+==HTB{Fl4m3_P34ks_Tr14l_Burn5_Br1ght_cce96f85ad54b396cdee745fbe91bf5b}==
 
 ## Whispers of the Moonbeam
 
@@ -176,7 +176,8 @@ gossip; cat flag.txt
 ![Whispers of the Moonbeam-02](https://raw.githubusercontent.com/whyuhurtz/hackmd-blog/main/2025/_assets/htb-cyber-apocalypse_web2-02.png)
 
 ### Flag
-<kbd>HTB{Sh4d0w_3x3cut10n_1n_Th3_M00nb34m_T4v3rn_df37873135314ddc601fbc674ec2339f}</kbd>
+
+==HTB{Sh4d0w_3x3cut10n_1n_Th3_M00nb34m_T4v3rn_df37873135314ddc601fbc674ec2339f}==
 
 # Reverse
 
@@ -304,7 +305,7 @@ if __name__ == "__main__":
 
 ### Flag
 
-<kbd>HTB{s1mpl3_fl4g_4r1thm3t1c}</kbd>
+==HTB{s1mpl3_fl4g_4r1thm3t1c}==
 
 ## SealedRune
 
@@ -526,7 +527,7 @@ if __name__ == "__main__":
 
 ### Flag
 
-<kbd>HTB{run3_m4g1c_r3v34l3d}</kbd>
+==HTB{run3_m4g1c_r3v34l3d}==
 
 # Pwn
 
@@ -862,4 +863,4 @@ After several attempts about 3 - 10 times, then I can successfully read the flag
 
 ### Flag
 
-<kbd>HTB{~c4n4ry_g035_qu4ck_qu4ck~_c2c1c5fea57c3625c35e8a70d8b4be0a}</kbd>
+==HTB{~c4n4ry_g035_qu4ck_qu4ck~_c2c1c5fea57c3625c35e8a70d8b4be0a}==
