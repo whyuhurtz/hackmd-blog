@@ -11,7 +11,7 @@ date: 2024-08-19
 
 # Rocket
 
-## Deskripsi
+## Detail Tantangan
 
 <details>
 Level: Easy
@@ -142,7 +142,7 @@ Machine OS: Linux
 
 ## Langkah Penyelesaian
 
-### Port and Service Enumeration
+### Port & Service Enumeration
 
 - Hasil scan port menggunakan `rustscan`.
 
